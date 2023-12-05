@@ -1,3 +1,3 @@
 # simplewebsite
-My name is Anuj
-I am from Sonipat,Haryana
+My name is anuj
+i am from sonipat
