@@ -1,1 +1,1 @@
-Animesh Mayank  Thakur; Jamshedpur; Jharkhand
+Animesh Mayank Thakur; Jamshedpur; Jharkhand
