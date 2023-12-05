@@ -1,3 +1,1 @@
-# simplewebsite
-my name is rahul
-i belong from sonipat
+Rahul,Sonipat,Haryana
