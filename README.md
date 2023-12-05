@@ -1,3 +1,3 @@
 # simplewebsite
 I am the moderator.
-somay "sonipat" "harayana"
+somay ;sonipat ;harayana
