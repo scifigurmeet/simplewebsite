@@ -1,2 +1,2 @@
-# simplewebsite
-1 my name is kartik kushwaha ; sonipat ; haryana
+
+Kartik kushwaha ; sonipat ; haryana
